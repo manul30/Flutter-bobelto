@@ -33,6 +33,15 @@ Check if your device is connected:
 $ flutter devices
 1 connected device:
 
+
+
+```
+$ roslaunch rosbridge_server rosbridge_websocket.launch
+$ flutter run --no-sound-null-safety
+$ roslaunch roscpp_tutorials talk_listener.launch
+```
+
+
 Windows (desktop) • windows • windows-x64 • Microsoft Windows [Version 10.0.18362.1082]
 macOS (desktop)   • macos   • darwin-x64  • macOS 11.2 20D64 darwin-x64
 Linux (desktop)   • linux   • linux-x64   • Linux
