@@ -1,10 +1,6 @@
 # Bobelto_FrontEnd_V2
 V2.0
 
-# Bobelto_FrontEnd_V2
-V2.0
-
->>>>>>> 8e2a7fc (ReadMe)
 ## Intro
 
 Bobelto ROV GUI created with Dart & Flutter SDK
@@ -58,7 +54,6 @@ $ flutter pub get
 It may be possible that you get the --null-sound error, in this case just launch the app running this:
 ```
 $ flutter run --no-sound-null-safety
-<<<<<<< HEAD
 ```
 
 
